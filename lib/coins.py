@@ -1156,7 +1156,7 @@ class Vote2018(KomodoMixin, EquihashMixin, Coin):
     
 class Ninja(KomodoMixin, EquihashMixin, Coin):
     NAME = "Ninja"
-    SHORTNAME = "Ninja"
+    SHORTNAME = "NINJA"
     NET = "mainnet"
     TX_COUNT = 100
     TX_COUNT_HEIGHT = 100
